@@ -1,0 +1,17 @@
+{
+  "name": "Sistema de Ventas e Inventario",
+  "short_name": "Ventas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f8f6",
+  "theme_color": "#146b58",
+  "description": "Sistema escolar de ventas, inventario, calendario y reportes",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
